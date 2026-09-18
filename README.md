@@ -1,15 +1,4 @@
 # testv4
 
 
-
-test
-
-
-
-dit is ook een test
-
-
-dit is geen test
-
-
-toch wel
+dit is een nieuw begin
